@@ -1,0 +1,54 @@
+.botao_receitas {
+  width: 200px;
+  height: 100px;
+  font-size: 20px;
+}
+
+.botoes {
+  color: blueviolet !important;
+  font-size: 1.5rem !important;
+}
+
+.margem_suave {
+  border: grey solid 1px !important;
+  border-radius: 5px !important;
+}
+
+.hover-bg-success:hover {
+  background-color: #198754 !important;
+  font-size: large;
+}
+
+.hover-bg-danger:hover {
+  background-color: #dc3545 !important;
+  font-size: large;
+}
+
+.imagem_receita {
+  width: 160px;
+  height: 100px;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.9);
+  margin: 0.15rem;
+}
+
+.empty-field {
+  border: rgb(250, 186, 97) solid 2px !important;
+}
+
+.filled-field {
+  border: rgb(129, 177, 245) solid 1px !important;
+}
+
+.span_status_envio{
+  font-size: 1rem;
+}
+
+.borda_amarela{
+  border: yellow solid 1px;
+}
+
+.btn{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9) !important;
+  margin: 0.15rem !important;
+}
